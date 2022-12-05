@@ -41,7 +41,7 @@ const Header = () => {
                             </li>
                            
                         </ul>
-                        <button className="btn btn-outline-primary" type="submit">Sign up</button>
+                        <button className="btn btn-outline-primary" type="submit">Sign Up</button>
                         <button className="btn"> </button>
                         <button className="btn btn-outline-success" type="submit">Login</button>
                        
